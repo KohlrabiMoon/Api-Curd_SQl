@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "b4Um+fpvHboz6Rqbo2DhCdqpEI/aProJUYUyHQ1hzCM=",
+  "Source": "Api-CURDtoSQL",
+  "BasePath": "_content/Api-CURDtoSQL",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
